@@ -9,10 +9,10 @@ title: Organizers
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg" alt="venue" width=250px">](https://www.mpia.de)
 
-[The Data Science Team](http://www.mpia.de/institute/research-and-development/data-science)
+SOC:
 
-* Ivelina Momcheva
-* Morgan Fouesneau
+* Elisabeth Matthews
+* Coryn Bailer-Jones
 
 
 <a href="https://mpia-institute.slack.com/messages/data-science" aria-label=envelope>

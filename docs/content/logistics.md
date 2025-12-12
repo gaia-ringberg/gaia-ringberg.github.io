@@ -5,6 +5,8 @@ active: true
 title: Logistics
 ---
 
+LOGISTICS STILL TO DO, this is a template !!
+
 The workshop will start at 09:00 on Tuesday, September 13 2022, and finish at 16:00 on Thursday, September 15 2022.
 
 There will be a dedicated bus to bring participants from the town to the workshop venue (see details under travel below).

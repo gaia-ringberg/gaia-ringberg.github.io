@@ -3,16 +3,16 @@
 type: index
 
 event:
-    - title: MPIA conference website template
-    - subtitle: A simple generator using markdown and python
-    - date: Date of the event
-    - venue: Max Planck Institute for Astronomy, Heidelberg, Germany
+    - title: Prpearing for Gaia's Exoplanet Bonanza
+    - subtitle: A Ringberg workshop
+    - date: 8th - 13th March, 2026
+    - venue: Schloss Ringberg, Bavaria, Germany
 
 organizers:
-    - name: The Data Science Team
-    - url: https://github.com/mpi-astronomy
+    - name: organizers
+    - url: https://gaia-ringberg.github.io/
     - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA logo
-    - contact_url: "ds@mpia.de" # -- contact
+    - contact_url: "matthews@mpia.de" # -- contact
 
 imprint:
     - url: http://www.mpia.de/imprint
@@ -23,14 +23,12 @@ privacy-policy:
     - name: privacy policy
 
 content:
-    - help
     - overview
     - organizers
     - participants
-    - speakers
     - programme
     - venue-mpia
-    - logistics
     - travel-mpia
+    - logistics
     - code-of-conduct
 ---
