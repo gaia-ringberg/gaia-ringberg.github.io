@@ -25,7 +25,6 @@ privacy-policy:
 content:
     - overview
     - organizers
-    - participants
     - programme
     - venue-mpia
     - travel-mpia
