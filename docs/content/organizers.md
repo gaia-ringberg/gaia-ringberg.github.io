@@ -14,6 +14,7 @@ SOC:
 * Elisabeth Matthews
 * Coryn Bailer-Jones
 
+_please feel free to reach out with any questions_
 
 <a href="https://mpia-institute.slack.com/messages/data-science" aria-label=envelope>
 <i class="fa-brands fa-slack" style="font-size:36px;"></i>
