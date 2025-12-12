@@ -5,7 +5,7 @@ type: index
 event:
     - title: Prpearing for Gaia's Exoplanet Bonanza
     - subtitle: A Ringberg workshop
-    - date: 8th - 13th March, 2026
+    - date: 8th to 13th March, 2026
     - venue: Schloss Ringberg, Bavaria, Germany
 
 organizers:
@@ -24,8 +24,6 @@ privacy-policy:
 
 content:
     - overview
-    - organizers
-    - programme
     - venue-mpia
     - travel-mpia
     - logistics
