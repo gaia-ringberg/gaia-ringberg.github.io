@@ -348,7 +348,7 @@ button:focus,
  * Jumbotron
  *-------------------*/
 .jumbotron {
-    background            : url("../static/img/background_art_gaia.pdf");
+    background            : url("../static/img/background_art_gaia.png");
     background-size       : cover;
     padding               : 0;
     margin                : 0;
