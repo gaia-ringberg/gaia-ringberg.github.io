@@ -9,10 +9,10 @@ title: Logistics
 
 The workshop will take place at [Ringberg Castle](https://www.schloss-ringberg.de/home), Bavaria, Germany, which overlooks the scenic Tegernsee. With space for roughly 50 participants on a secluded mountaintop, Ringberg is a cozy spot conducive to vibrant scientific discussion, brainstorming new ideas, feasting and merriment, and (if you dare) four-person chess. The full address is as follows:
 
-Tagungsstätte Schloss Ringberg
-Schloßstraße 20, D-83700 Reitrain
-Bavaria
-Germany
+Tagungsstätte Schloss Ringberg     
+Schloßstraße 20, D-83700 Reitrain     
+Bavaria     
+Germany     
 
 ## <i class="fa-solid fa-clock"></i> Timings
 
@@ -26,5 +26,5 @@ Please note that dinner is _not_ served on Sunday or Friday.
 
 ## <i class="fa-solid fa-universal-access"></i> Accessibility
 
-We are committed to providing an accessible environment for all participants.  Ringber is wheelchair accessible (see [this page](https://www.schloss-ringberg.de/137267/barrierefreiheit) for more detailed information). If you need help or any other special arrangements, please don't hesitate to contact the organizers at _EMAIL ADDRESS_.
+We are committed to providing an accessible environment for all participants.  Ringberg is wheelchair accessible (see [this page](https://www.schloss-ringberg.de/137267/barrierefreiheit) for more detailed information). If you need help or any other special arrangements, please don't hesitate to contact the organizers at _EMAIL ADDRESS_.
 

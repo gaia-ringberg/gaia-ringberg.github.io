@@ -21,7 +21,7 @@ Given the number of attendees arriving at the same time, a taxi reservation in a
 
 ## <i class="fa-solid fa-road"></i> By car
 
-If you decide to rent a car and drive, you can follow the directions on the Ringberg website. Please bear in mind that depending on the snow conditions, you may need snow chains or a four-wheel drive vehicle.
+If you decide to rent a car and drive, you can follow the directions on the Ringberg website. Please bear in mind that depending on the snow conditions, you may need snow chains or a four-wheel drive vehicle. Car parking at the castle is free, and does not need to be pre-booked.
 
 
 ## <i class="fa-solid fa-road-barrier"></i> Visas
