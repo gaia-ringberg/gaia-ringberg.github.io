@@ -7,7 +7,7 @@ title: Travel
 
 ## <i class="fa-solid fa-plane"></i> By plane
 
-We recommend flying to Munich Airport (MUC), as this is the nearest international airport to Ringberg. The easiest way to get to Ringberg from MUC is by train. Starting at Munich Airport, take the regional train (S-Bahn) line S1 or S8 to Munich Central Station. From Munich Central Station take the train to Tegernsee Station. The total travel time from MUC to Ringberg Castle is around 2hr. 
+We recommend flying to Munich Airport (MUC), as this is the nearest international airport to Ringberg. The easiest way to get to Ringberg from MUC is by train. Starting at Munich Airport, take the regional train (S-Bahn) line S1 or S8 to Munich Central Station. From Munich Central Station take the train to Tegernsee Station, and then a Taxi (see below). The total travel time from MUC to Ringberg Castle is around 2hr. 
 
 ## <i class="fa-solid fa-train-tram"></i> By train
 
