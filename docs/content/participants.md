@@ -15,4 +15,31 @@ Any personal data you provide will be processed in accordance with the Max Planc
 There are no registration fees to participate to this workshop, though participants are responsible for their room & board at the Ringberg Castle. See logisitcs for details.
 
 
-_A full participant list will be provided here in due course._
+Confirmed participants so far:
+Alessandro Sozzetti,
+Alexander Wallace,
+Anthony Brown,
+Ben Pennell,
+Célia Desgrange,
+Coryn Bailer-Jones,
+Damien Ségransan,
+Daniel Bayliss,
+Daniel Yahalomi,
+Daniella Bardalez Gagliuffi,
+Domenico Barbato,
+Dori Blakely,
+Elisabeth Matthews,
+Fabo Feng,
+Jackie Faherty,
+Johanna Müller-Horn,
+Kevin Schlaufman,
+Kyle Franson,
+Logan Pearce,
+Miguel Vioque,
+Sabine Reffert,
+Thomas Winterhalder,
+Trent Dupuy,
+Tsevi Mazeh,
+Wolfgang Brandner,
+zephyr penoyre
+
