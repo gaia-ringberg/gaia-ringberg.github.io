@@ -7,7 +7,7 @@ title: Participants
 
 ## Registration is open!
 
-Please confirm your attendance by _21st January 2026_, via the link provided in your invitation email.
+Please see your invitation email for details on how to RSVP, including the registration link and a registration deadline.
 
 Any personal data you provide will be processed in accordance with the Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-policy).
 
@@ -38,11 +38,15 @@ Juan Espinoza-Retamal,
 Johanna Müller-Horn,
 Kevin Schlaufman,
 Kyle Franson,
+Luca Naponiello,
 Logan Pearce,
 Miguel Vioque,
+Qier An,
 Sabine Reffert,
+Sahar Shahaf,
 Thomas Winterhalder,
 Trent Dupuy,
+Trifon Trifonov,
 Tsevi Mazeh,
 Wolfgang Brandner,
 zephyr penoyre
