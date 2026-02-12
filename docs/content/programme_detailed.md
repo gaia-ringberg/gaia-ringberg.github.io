@@ -120,9 +120,7 @@ program:
 
 ---
 
-<i class="fa-regular fa-calendar" style="font-size:26px";></i> 
-
-The workshop will run from Monday 9th March to Friday 13th March, and will also include a welcome reception on the evening of Sunday 8th March. Please find below a graphical program overview, and a detailed list of all sessions and talk titles.
+<i class="fa-regular fa-calendar" style="font-size:26px";></i> The workshop will run from Monday 9th March to Friday 13th March, and will also include a welcome reception on the evening of Sunday 8th March. Please find below a graphical program overview, and a detailed list of all sessions and talk titles.
 
 <img width="1100px" src="static/img/program.png" style="float:center">
 
