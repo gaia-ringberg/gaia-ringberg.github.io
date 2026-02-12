@@ -24,7 +24,7 @@ privacy-policy:
 
 content:
     - overview
-    - programme
+    - programme_detailed
     - participants
     - logistics
     - travel-ringberg
