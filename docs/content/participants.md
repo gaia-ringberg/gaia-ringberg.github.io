@@ -5,17 +5,7 @@ active: true
 title: Participants
 ---
 
-## Registration is open!
-
-Please see your invitation email for details on how to RSVP, including the registration link and a registration deadline.
-
-Any personal data you provide will be processed in accordance with the Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-policy).
-
-
-There are no registration fees to participate to this workshop, though participants are responsible for their room & board at the Ringberg Castle. See logisitcs for details.
-
-
-Confirmed participants so far:
+Confirmed participants:
 Alessandro Sozzetti,
 Alexander Wallace,
 Aneesh Baburaj,
@@ -36,8 +26,10 @@ Fabo Feng,
 Florian Destriez,
 François Bouchy,
 Greg Gilbert,
+Iain Hammond,
 Jackie Faherty,
 Jan-Vincent Harre,
+Jess Speedie,
 Johanna Müller-Horn,
 Juan Espinoza-Retamal,
 Judah Van Zandt,
@@ -57,6 +49,7 @@ Thomas Winterhalder,
 Trent Dupuy,
 Trifon Trifonov,
 Tsevi Mazeh,
+Tom Schiwy,
 William Balmer,
 William Thompson,
 Wolfgang Brandner,

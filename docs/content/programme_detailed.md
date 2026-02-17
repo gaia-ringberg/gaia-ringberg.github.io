@@ -94,7 +94,7 @@ program:
       time: 09:00 - 10:30 -- Talks 9 & Hands-On
       description: |2-
         Trent Dupuy: TBA
-        Coryn Bailer-Jones: Component masses in stellar and substellar binaries from Gaia astrometry and photometry
+        Coryn Bailer-Jones: Component masses in stellar and substellar binaries in Gaia DR3 from astrometry and photometry
         Hands-on session part I (lead: Damien Ségransan)
     - day: Thursday 12th March
       time: 11:00 - 12:30 -- Hands-on session
