@@ -69,7 +69,7 @@ program:
         Kyle Franson: Imaging Giant Planets Around Young Accelerating Stars
         Thomas Winterhalder: Short period DR4 planets through the eyes of VLTI/GRAVITY
         Domenico Barbato: Beyond Gaia's horizon: a multi-technique path to exoplanetary demographics
-
+        Trent Dupuy: TBA
 
     - day: Wednesday 11th March
       time: 09:00 - 10:30 -- Talks 7
@@ -93,9 +93,9 @@ program:
     - day: Thursday 12th March
       time: 09:00 - 10:30 -- Talks 9 & Hands-On
       description: |2-
-        Trent Dupuy: TBA
         Coryn Bailer-Jones: Component masses in stellar and substellar binaries in Gaia DR3 from astrometry and photometry
-        Hands-on session part I (lead: Damien Ségransan)
+	Kevin Hardegree-Ullman: Lessons Learned from Coordinated Follow-up from Kepler/K2/TESS, and Applications to Gaia
+	Hands-on session part I (lead: Damien Ségransan)
     - day: Thursday 12th March
       time: 11:00 - 12:30 -- Hands-on session
       description: Continue the hands-on, or move to a breakout room
