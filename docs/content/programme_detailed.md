@@ -48,18 +48,18 @@ program:
       time: 09:00 - 10:30 -- Talks 4
       description: |2-
         Tsevi Mazeh: Statistical Evidence for Specific Angular Momentum Excess of Planet-Hosting Stars
-        Greg Gilbert: Exoplanet eccentricities as revealed by Gaia
         Judah Van Zandt: The Brown Dwarf Desert Extends to 10 AU
-        Ben Pennell: Companions to M dwarfs revealed by Gaia Astrometry
+        Greg Gilbert: Exoplanet eccentricities as revealed by Gaia
         Jackie Faherty: Brown Dwarf Companions and the Potential with Gaia
+        Caleb Lammers: Forecasts for Gaia's Exoplanet Yield
     - day: Tuesday 10th March
       time: 11:00 - 12:30 -- Talks 5
       description: |2-
-        Caleb Lammers: Forecasts for Gaia's Exoplanet Yield
         François Bouchy: Probing the outer region of transiting hot gas giants
         Daniel Bayliss: Bridging the Gap - Connecting exoplanets from TESS to Gaia
         Juan Espinoza-Retamal: Prospects to constrain the origins of short-period exoplanets with Gaia astrometry
         Johanna Müller-Horn: Mapping the Brown Dwarf Desert with FEROS and Gaia
+        Ben Pennell: Companions to M dwarfs revealed by Gaia Astrometry
     - day: Tuesday 10th March
       time: 14:00 - 15:30 -- Breakout 2
     - day: Tuesday 10th March
