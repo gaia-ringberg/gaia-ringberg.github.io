@@ -66,7 +66,7 @@ program:
       time: 1600 - 17:30 -- Talks 6
       description: |2-
         Célia Desgrange: Searching for the hidden companion in the planetary system GJ436 through RV, Gaia and DI
-        Kyle Franson: Imaging Giant Planets Around Young Accelerating Stars
+        Kyle Franson: Imaging Giant Planets Around Young Accelerating Stars: DR4 Edition
         Thomas Winterhalder: Short period DR4 planets through the eyes of VLTI/GRAVITY
         Domenico Barbato: Beyond Gaia's horizon: a multi-technique path to exoplanetary demographics
         Trent Dupuy: TBA
