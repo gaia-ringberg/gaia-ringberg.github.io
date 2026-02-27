@@ -21,7 +21,7 @@ program:
       time: 09:00 - 10:30 -- Talks 1
       description: |2-
         Introductory Remarks (SOC)
-        Alessandro Sozzetti: TBA
+        Alessandro Sozzetti: Exoplanet demographics and Gaia: Expectations for DR4, and Beyond
         Anthony Brown: Gaia DR4 update and planned community resources
         Kevin Schlaufman: Overcoming Astrophysical False Positives to Realizing the Full Potential of Gaia Astrometry for Exoplanet Science
         William Thompson: Octofitter & Detecting Exoplanets with DR3
@@ -39,8 +39,8 @@ program:
       time: 1600 - 17:30 -- Talks 3
       description: |2-
         Louise Nielsen: TBA
-        Trifon Trifonov: Modeling Hipparcos, Gaia DR4, and RV data with the Exo-Striker 
         Tom Schiwy: combined fitting of Gaia DR4, Hipparcos, RVs and more
+        Trifon Trifonov: Modeling Hipparcos, Gaia DR4, and RV data with the Exo-Striker 
         zephyr penoyre: astrometric tools and challenges
         Daniel Yahalomi: When One Planet Looks Like Two: Degeneracies and Demographics of Cool Gas Giants with Gaia DR4
 
