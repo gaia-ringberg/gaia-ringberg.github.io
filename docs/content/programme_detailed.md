@@ -67,7 +67,7 @@ program:
       description: |2-
         Célia Desgrange: Searching for the hidden companion in the planetary system GJ436 through RV, Gaia and DI
         Kyle Franson: Imaging Giant Planets Around Young Accelerating Stars: DR4 Edition
-        Thomas Winterhalder: Short period DR4 planets through the eyes of VLTI/GRAVITY
+        Thomas Winterhalder: Pursuing Ice Line giants with Gaia DR4 & VLTI/GRAVITY+
         Domenico Barbato: Beyond Gaia's horizon: a multi-technique path to exoplanetary demographics
         Trent Dupuy: TBA
 
