@@ -38,9 +38,9 @@ program:
     - day: Monday 9th March
       time: 1600 - 17:30 -- Talks 3
       description: |2-
-        Louise Nielsen: TBA
+        Louise Nielsen: Chasing exoplanets around white dwarfs with Gaia
         Tom Schiwy: combined fitting of Gaia DR4, Hipparcos, RVs and more
-        Trifon Trifonov: Modeling Hipparcos, Gaia DR4, and RV data with the Exo-Striker 
+        Trifon Trifonov: Modeling Hipparcos, Gaia DR4, and RV data with the Exo-Striker
         zephyr penoyre: astrometric tools and challenges
         Daniel Yahalomi: When One Planet Looks Like Two: Degeneracies and Demographics of Cool Gas Giants with Gaia DR4
 
@@ -123,4 +123,3 @@ program:
 <i class="fa-regular fa-calendar" style="font-size:26px";></i> The workshop will run from Monday 9th March to Friday 13th March, and will also include a welcome reception on the evening of Sunday 8th March. Please find below a graphical program overview, and a detailed list of all sessions and talk titles.
 
 <img width="1100px" src="static/img/program.png" style="float:center">
-
