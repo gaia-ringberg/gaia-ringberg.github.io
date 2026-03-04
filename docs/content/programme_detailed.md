@@ -87,7 +87,7 @@ program:
         Aneesh Baburaj: Compiling a Young Moving Group catalogue for Gaia DR4
         Miguel Vioque: Planet formation in protoplanetary disks using Gaia
         Iain Hammond: TBA
-    - day: Wednesday 11th March -- 11:00 - 12:30
+    - day: Wednesday 11th March
       time: 14:00 - 18:30 -- Free afternoon
 
     - day: Thursday 12th March
