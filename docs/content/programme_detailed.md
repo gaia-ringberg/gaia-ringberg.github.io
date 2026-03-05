@@ -84,7 +84,7 @@ program:
       description: |2-
         Logan Pearce: Reflected Light Direct Detection with ELTs
         Wolfgang Brandner: The quest for reflected-light exoplanets for Roman/CGI
-        Aneesh Baburaj: Compiling a Young Moving Group catalogue for Gaia DR4
+        Aneesh Baburaj: Wide Separation Planet Hosts might not be exactly Sun-like
         Miguel Vioque: Planet formation in protoplanetary disks using Gaia
         Iain Hammond: TBA
     - day: Wednesday 11th March
