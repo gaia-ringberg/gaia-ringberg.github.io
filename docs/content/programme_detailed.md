@@ -86,7 +86,7 @@ program:
         Wolfgang Brandner: The quest for reflected-light exoplanets for Roman/CGI
         Aneesh Baburaj: Wide Separation Planet Hosts might not be exactly Sun-like
         Miguel Vioque: Planet formation in protoplanetary disks using Gaia
-        Iain Hammond: TBA
+        Iain Hammond: Imaging Gaia's Protoplanets with the ELT
     - day: Wednesday 11th March
       time: 14:00 - 18:30 -- Free afternoon
 
