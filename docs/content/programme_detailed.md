@@ -7,9 +7,9 @@ title: Programme
 
 program:
     - day: Breakout Sessions
-      time: Currently planned breakout topics (allocations to specific slots TBD)
+      time: Currently planned breakout topics
       description: |2-
-        Combining multiple detection methods
+        Combining multiple detection methods 
         Occurrence rates
         Planets in binaries
         Planets in protoplanetary disks / young systems

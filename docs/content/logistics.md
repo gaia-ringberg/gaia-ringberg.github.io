@@ -21,7 +21,7 @@ The workshop will start at 09:00 on Monday, March 9th 2025, and finish at 16:00 
 
 ## <i class="fa-solid fa-dollar-sign"></i> Costs
 
-While there is no registration fee for the workshop, participants are responsible for their room and board at the castle. Due to the nature and style of the workshop, participants are expected to attend for the full week. The cost will be _~€850_, which will include lodging and all meals and coffee breaks, as well as a workshop dinner (details TBD). Breakfast, lunch, dinner and coffee are provided on-site.
+While there is no registration fee for the workshop, participants are responsible for their room and board at the castle. Due to the nature and style of the workshop, participants are expected to attend for the full week. The cost will be _~€850_, which will include lodging and all meals and coffee breaks, as well as a workshop dinner on Thursday 12th March. Breakfast, lunch, dinner and coffee are provided on-site.
 
 Please note that dinner is _not_ served on Sunday or Friday.
 
