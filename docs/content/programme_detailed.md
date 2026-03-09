@@ -101,6 +101,7 @@ program:
       description: |2-
         Coryn Bailer-Jones: Component masses in stellar and substellar binaries in Gaia DR3 from astrometry and photometry
         Kevin Hardegree-Ullman: Lessons Learned from Coordinated Follow-up from Kepler/K2/TESS, and Applications to Gaia
+        Alexander Venner: Resource Management with Resources that Manage: Intermediate-precision RVs and Gaia Exoplanet Follow-up
         Hands-on session part I (lead: Damien Ségransan)
     - day: Thursday 12th March
       time: 11:00 - 12:30 -- Hands-on session
