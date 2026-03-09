@@ -69,7 +69,7 @@ program:
         Kyle Franson: Imaging Giant Planets Around Young Accelerating Stars: DR4 Edition
         Thomas Winterhalder: Pursuing Ice Line giants with Gaia DR4 & VLTI/GRAVITY+
         Domenico Barbato: Beyond Gaia's horizon: a multi-technique path to exoplanetary demographics
-        Trent Dupuy: TBA
+        Trent Dupuy: High-Precision Mass Measurements and the Substellar Boundary
 
     - day: Wednesday 11th March
       time: 09:00 - 10:30 -- Talks 7
