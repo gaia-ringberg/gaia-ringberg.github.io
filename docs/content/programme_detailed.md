@@ -10,13 +10,13 @@ program:
       time: Currently planned breakout topics
       description: |2-
         Combining multiple detection methods 
-        Occurrence rates
+        Occurrence rates & demographics 
         Planets in binaries
         Planets in protoplanetary disks / young systems
-        Brown dwarf accelerators
+        Companions to brown dwarfs
         Stellar models, mass estimates, equal mass binaries
         Long-period planets
-        Suggestions still welcome!
+        Spontaneous contributions
     - day: Monday 9th March
       time: 09:00 - 10:30 -- Talks 1
       description: |2-
@@ -35,6 +35,9 @@ program:
         Pop-up Introductions (2 minutes per person, only for those not presenting talks)
     - day: Monday 9th March
       time: 14:00 - 15:30 -- Breakout 1
+      description: |2-
+        Combining multiple detection methods (Domenico Barbato, Main Room)
+        Planets in binaries (Trent Dupuy, Green Room)
     - day: Monday 9th March
       time: 1600 - 17:30 -- Talks 3
       description: |2-
@@ -62,6 +65,9 @@ program:
         Ben Pennell: Companions to M dwarfs revealed by Gaia Astrometry
     - day: Tuesday 10th March
       time: 14:00 - 15:30 -- Breakout 2
+      description: |2-
+        Occurrence rates & demographics (Daniel Yahalomi, Main Room)
+        Companions to brown dwarfs (Daniella Bardalez Gagliuffi + Jackie Faherty)
     - day: Tuesday 10th March
       time: 1600 - 17:30 -- Talks 6
       description: |2-
@@ -101,7 +107,9 @@ program:
       description: Continue the hands-on, or move to a breakout room
     - day: Thursday 12th March
       time: 14:00 - 15:30 -- Breakout 3
-      description: Breakout session, or continue working on hands-on
+      description: |2-
+        Long-period planets (Anthony Brown, room TBD)
+        Spontaneous contributions (room TBD)
     - day: Thursday 12th March
       time: 16:00 - 17:30
       title: Group Discussion
@@ -111,7 +119,9 @@ program:
       time: 09:00 - 10:30 -- Breakout 4
     - day: Friday 13th March
       time: 11:00 - 12:00 -- Breakouts Reporting
-      description: Share any key takeaways from your breakout sessions!
+      description: |2-
+        Stellar models, mass estimates, equal mass binaries (Sabine Reffert, Green Room)
+        Planets in protoplanetary disks / young systems (Miguel Vioque, Blue Room)
     - day: Friday 13th March
       time: 12:00 - 12:30 -- Wrap-up and Closing Discussion
     - day: Friday 13th March
